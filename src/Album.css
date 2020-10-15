@@ -1,0 +1,14 @@
+.album-container {
+    margin: 36px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.album {
+    display: block;
+    margin: -3px;
+    font-size: 8px;
+    white-space: pre;
+    color: black;
+    overflow: hidden;
+}
